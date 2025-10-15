@@ -1,0 +1,17 @@
+
+Tich 2 phan so = 1/6
+
+
+Gia tri thuc = 0
+Tich 2 phan so = 2/6
+
+
+Gia tri thuc = 12
+Tich 2 phan so = 13/4
+
+
+Gia tri thuc = 52
+Tich 2 phan so = 3/4
+
+
+Gia tri thuc = 0.75
