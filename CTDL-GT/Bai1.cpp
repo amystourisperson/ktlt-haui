@@ -167,6 +167,9 @@ de tinh a^b ta co the tinh dua vao 3 cach
 +)  
 	a^(b/2) * a^(b/2) * a neu b le    
 */
+
+
+/*
 #include <iostream>
 using namespace std;
 long long binPow(long long a, long long b){
@@ -189,3 +192,5 @@ int main(){
 	cout<<binPow(2,10); 
 }	
 //co anh giai thich trong zalo 
+
+*/
